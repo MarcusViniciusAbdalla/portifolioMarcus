@@ -3,10 +3,10 @@ const AboutContainer = () => {
     <section className="about-container">
       <h2>Sobre</h2>
       <p>
-        Comecei na Indústria onde fiquei por nove anos. Entrei na escrituração fiscal e posteriormente fui designado a ser o líder da gestão e controle de estoque e produção. Coordenei equipes em quase todo processo da Indústria.
+        Desenvolvedor Web Full Stack com conhecimento em Node Js , HTML , CSS,Sass , Javascript , Sequelize, Mongo DB , MySQL , Express , SCRUM e Kanban. Estou realizando diversos projetos agora, uma vez que já terminei o curso da Digital House.
       </p>
       <p>
-        Atualmente sou CEO das minhas empresas em transição de carreira. Pretendo trabalhar somente como desenvolvedor. É esse meu sonho e o que tanto almejo para meu futuro como profissional.
+        Atualmente estou em transição de carreira. Pretendo trabalhar como desenvolvedor. É esse meu sonho e o que tanto almejo para meu futuro como profissional. Sou proativo, comprometido, líder, excelente para trabalhar em Equipe.
       </p>
     </section>
   );
